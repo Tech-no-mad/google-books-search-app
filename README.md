@@ -23,3 +23,9 @@ You can install the required Python packages using pip:
 ```bash
 pip install flask
 pip install flask requests
+```
+You can run the app using folllowing command:
+
+```bash
+python app.py
+```
